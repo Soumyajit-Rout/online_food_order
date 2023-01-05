@@ -79,7 +79,7 @@ navbar ul li{
 }
 #home::before{
     content: " ";
-    background:url('../food.jpg')no-repeat center center/cover;
+    background:url('food.jpg')no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
